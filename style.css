@@ -414,8 +414,8 @@ nav ul {
 
 .card {
   display: flex;
-  width: 60%;
-  height: 850px;
+  width: 65%;
+  height: 820px;
   align-items: center;
   margin-bottom: 150px;
   background-color: #E5BB69;
@@ -428,9 +428,9 @@ nav ul {
   height: auto;
   object-fit: cover;
   float: left;
-  padding-top: 50px; 
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-top: 35px; 
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .card2 {
@@ -448,7 +448,7 @@ nav ul {
 .section9-p {
   color: #191919;
   padding-top: 50px; 
-  padding-right: 10px;
+  padding-right: 35px;
 }
 
 
